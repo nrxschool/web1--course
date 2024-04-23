@@ -1,5 +1,7 @@
 # Historia do HTML
 
+![HMTL](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png)
+
 HTML (HyperText Markup Language) é a linguagem padrão usada para criar e projetar páginas da web. Ele define a estrutura e o layout dos conteúdos em uma página web, permitindo a formatação e organização de textos, imagens, vídeos e links.
 
 - Desenvolvido por **Tim Berners-Lee** em 1991, o HTML foi a pedra fundamental para a criação da World Wide Web
