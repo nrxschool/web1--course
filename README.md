@@ -13,3 +13,4 @@
 
 - Módulo 4
   - Aula 1
+  - Aula 2
