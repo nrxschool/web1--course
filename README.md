@@ -6,3 +6,4 @@
 
 - Módulo 3
   - Aula 1
+  - Aula 2
