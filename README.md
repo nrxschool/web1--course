@@ -9,3 +9,7 @@
   - Aula 2
   - Aula 3
   - Aula 4
+  - Aula 6
+
+- Módulo 4
+  - Aula 1
